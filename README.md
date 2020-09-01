@@ -36,3 +36,6 @@ We applied PCA during the process to reduce the number of features from 31 to 8 
 
 The best performed model is Logistic regression, with a accuracy score of about 98%, followed by SVC with a 96.5% accuracy score. To prevent over-fitting, more 
 training data is hihgly recommended.
+
+### Streamlit app
+http://localhost:8501/
